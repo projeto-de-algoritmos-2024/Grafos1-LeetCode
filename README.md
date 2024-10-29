@@ -13,22 +13,13 @@ Temas:
 | 21/1062259 |  Mateus Orlando Medeiros Ribeiro |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório contém questões resolvidas, sobre o conteúdo de Grafos, do site [LeetCode](https://leetcode.com). Tais questões foram usadas para praticar e aplicar o que nos foi ministrado pelo Prof. Maurício durante o desenvolvimento do primeiro tópico da Disciplina de Projeto de Algoritmos. 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
+**Linguagem**: C
 
 
 
