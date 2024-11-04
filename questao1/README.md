@@ -21,5 +21,6 @@ After typing 5, the most recent 3 digits is "345", which is correct and the safe
 Return any string of minimum length that will unlock the safe at some point of entering it.
 
 Submissões: <br>
-![Submissao_Cracking_the_Safe]()
+![Submissao_Cracking_the_Safe](https://github.com/user-attachments/assets/16b8121a-7a5c-4695-a82c-e42437da30cf)
+
 
