@@ -22,6 +22,22 @@ After typing 5, the most recent 3 digits is "345", which is correct and the safe
 
 Return any string of minimum length that will unlock the safe at some point of entering it.
 
+Example 1:
+
+Input: n = 1, k = 2
+Output: "10"
+Explanation: The password is a single digit, so enter each digit. "01" would also unlock the safe.
+Example 2:
+
+Input: n = 2, k = 2
+Output: "01100"
+Explanation: For each possible password:
+- "00" is typed in starting from the 4th digit.
+- "01" is typed in starting from the 1st digit.
+- "10" is typed in starting from the 3rd digit.
+- "11" is typed in starting from the 2nd digit.
+Thus "01100" will unlock the safe. "10011", and "11001" would also unlock the safe.
+
 Submissões: <br>
 ![Submissao_Cracking_the_Safe](https://github.com/user-attachments/assets/16b8121a-7a5c-4695-a82c-e42437da30cf)
 
