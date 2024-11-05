@@ -21,7 +21,10 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ### [#753 - Cracking the Safe](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao1/README.md)
 **Dificuldade:** Difícil    
 
-Submissões: <br> 
+Submissões: 
+
+![image](https://github.com/user-attachments/assets/c2630daa-b594-4961-8103-bc32b6758d3d)
+
 ![Submissao_Cracking_the_Safe](https://github.com/user-attachments/assets/16b8121a-7a5c-4695-a82c-e42437da30cf)
 
 ## Instalação 
