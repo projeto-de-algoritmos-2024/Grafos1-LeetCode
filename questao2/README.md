@@ -1,5 +1,7 @@
 ### #329 Longest Increasing Path in a Matrix
 
+![Matrix](https://github.com/user-attachments/assets/a9a727f6-5f14-4fe2-b7d0-13628bf10da4)
+
 
 Dificuldade: Difícil
 
