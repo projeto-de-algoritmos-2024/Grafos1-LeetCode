@@ -1,13 +1,16 @@
-### #329 Longest Increasing Path in a Matrix
+## #329 Longest Increasing Path in a Matrix
 
 ![Matrix](https://github.com/user-attachments/assets/a9a727f6-5f14-4fe2-b7d0-13628bf10da4)
 
-
-Dificuldade: Difícil
-
 [Link para a questão](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
 
-Enunciado:
+### Gravação
+
+
+
+#### Dificuldade: Difícil
+
+### Enunciado
 
 Given an m x n integers matrix, return the length of the longest increasing path in matrix.
 
@@ -45,6 +48,6 @@ Constraints:
 
 
 
-Submissões: <br>
-![Submissao_Cracking_the_Safe]()
+### Submissões: 
+<br> ![Submissao_Cracking_the_Safe]()
 

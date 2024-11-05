@@ -1,4 +1,5 @@
 ## #753 - Cracking the Safe
+
 ![Enunciado_Cracking](https://github.com/user-attachments/assets/72d98c35-2c56-434e-b86c-ebb1b15eb0b4)
 
 [Link para a questão](https://leetcode.com/problems/cracking-the-safe/description/)
@@ -9,8 +10,6 @@ OBS: Como a questão era complexa, foi muito difícil explicar em um vídeo muit
 [Vídeo da explicação encurtada](https://youtu.be/ev6YrloWGcs)
 
 [Vídeo da explicação mais completa](https://youtu.be/4fO33O668a4)
-
-
 
 #### Dificuldade: Difícil
 
