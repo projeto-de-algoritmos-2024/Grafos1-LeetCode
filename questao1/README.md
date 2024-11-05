@@ -1,12 +1,20 @@
-### #753 - Cracking the Safe
-
+## #753 - Cracking the Safe
 ![Enunciado_Cracking](https://github.com/user-attachments/assets/72d98c35-2c56-434e-b86c-ebb1b15eb0b4)
-
-Dificuldade: Difícil
 
 [Link para a questão](https://leetcode.com/problems/cracking-the-safe/description/)
 
-Enunciado:
+### Gravação
+OBS: Como a questão era complexa, foi muito difícil explicar em um vídeo muito curto.
+
+[Vídeo da explicação encurtada](https://youtu.be/ev6YrloWGcs)
+
+[Vídeo da explicação mais completa](https://youtu.be/4fO33O668a4)
+
+
+
+#### Dificuldade: Difícil
+
+### Enunciado
 
 There is a safe protected by a password. The password is a sequence of n digits where each digit can be in the range [0, k - 1].
 
@@ -38,7 +46,7 @@ Explanation: For each possible password:
 - "11" is typed in starting from the 2nd digit.
 Thus "01100" will unlock the safe. "10011", and "11001" would also unlock the safe.
 
-Submissões: <br>
-![Submissao_Cracking_the_Safe](https://github.com/user-attachments/assets/16b8121a-7a5c-4695-a82c-e42437da30cf)
+### Submissões: 
+<br> ![Submissao_Cracking_the_Safe](https://github.com/user-attachments/assets/16b8121a-7a5c-4695-a82c-e42437da30cf)
 
 
