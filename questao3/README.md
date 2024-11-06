@@ -1,6 +1,6 @@
 ## #1315 - Sum of Nodes with Even-Valued Grandparent
 
-![Enunciado_Sum](https://github.com/user-attachments/assets/72d98c35-2c56-434e-b86c-ebb1b15eb0b4)
+![Enunciado_Sum](https://github.com/user-attachments/assets/08b948e3-5bae-427e-8898-598a8dbdc463)
 
 [Link para a questão](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)
 
@@ -30,6 +30,8 @@ Input: root = [1]
 Output: 0
 
 ### Submissões: 
+
+![Submissoes_Sum](https://github.com/user-attachments/assets/bc1e4b36-55ed-4765-b0ce-fff433191a6a)
 
 
 
