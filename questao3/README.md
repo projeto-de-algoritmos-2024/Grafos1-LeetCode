@@ -1,33 +1,31 @@
-## #1315 - Sum of Nodes with Even-Valued Grandparent
+## #886 - Possible Bipartition
 
-![Enunciado_Sum](https://github.com/user-attachments/assets/08b948e3-5bae-427e-8898-598a8dbdc463)
+
 
 [Link para a questão](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)
 
 ### Gravação
 
+[Vídeo da explicação](https://youtu.be/E0dtDFOJhCw)
+
 #### Dificuldade: Média
 
 ### Enunciado
 
-Given the root of a binary tree, return the sum of values of nodes with an even-valued grandparent. If there are no nodes with an even-valued grandparent, return 0.
+We want to split a group of n people (labeled from 1 to n) into two groups of any size. Each person may dislike some other people, and they should not go into the same group.
 
-A grandparent of a node is the parent of its parent if it exists.
+Given the integer n and the array dislikes where dislikes[i] = [ai, bi] indicates that the person labeled ai does not like the person labeled bi, return true if it is possible to split everyone into two groups in this way.
 
 Example 1:
 
-![image](https://github.com/user-attachments/assets/ce8c6bb5-d889-4716-84a7-8cb12b263555)
-
-Input: root = [6,7,8,2,7,1,3,9,null,1,4,null,null,null,5]
-Output: 18
-Explanation: The red nodes are the nodes with even-value grandparent while the blue nodes are the even-value grandparents.
-
+Input: n = 4, dislikes = [[1,2],[1,3],[2,4]]
+Output: true
+Explanation: The first group has [1,4], and the second group has [2,3].
 Example 2:
 
-![image](https://github.com/user-attachments/assets/1a30c7a1-c878-4833-98f2-b3ec83671b3f)
-
-Input: root = [1]
-Output: 0
+Input: n = 3, dislikes = [[1,2],[1,3],[2,3]]
+Output: false
+Explanation: We need at least 3 groups to divide them. We cannot put them in two groups.
 
 ### Submissões: 
 
