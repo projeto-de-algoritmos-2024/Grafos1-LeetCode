@@ -16,7 +16,7 @@ A grandparent of a node is the parent of its parent if it exists.
 
 Example 1:
 
-![alt text](image.png)
+![alt text](image1.png)
 
 Input: root = [6,7,8,2,7,1,3,9,null,1,4,null,null,null,5]
 Output: 18
