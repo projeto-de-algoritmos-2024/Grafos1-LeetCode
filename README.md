@@ -23,9 +23,18 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 Submissões: 
 
-![image](https://github.com/user-attachments/assets/c2630daa-b594-4961-8103-bc32b6758d3d)
+![image](https://github.com/user-attachments/assets/e11dd59d-62b0-4a4e-8bab-6907c88c02dc)
 
-![Submissao_Cracking_the_Safe](https://github.com/user-attachments/assets/16b8121a-7a5c-4695-a82c-e42437da30cf)
+![image](https://github.com/user-attachments/assets/e1b42a0c-3b81-4c0e-afb4-c88ca4bdbef4)
+
+### [#886 - Possible Bipartion](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao3/README.md)
+**Dificuldade:** Média    
+
+Submissões: 
+
+![image](https://github.com/user-attachments/assets/bfcda9b4-e051-4f39-acf4-7ff67b4139a6)
+
+![Submissoes_Pos](https://github.com/user-attachments/assets/bc1e4b36-55ed-4765-b0ce-fff433191a6a)
 
 ## Instalação 
 **Linguagem**: C
