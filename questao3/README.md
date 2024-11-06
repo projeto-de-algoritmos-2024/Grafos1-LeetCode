@@ -6,7 +6,7 @@
 
 ### Gravação
 
-#### Dificuldade: Difícil
+#### Dificuldade: Média
 
 ### Enunciado
 
