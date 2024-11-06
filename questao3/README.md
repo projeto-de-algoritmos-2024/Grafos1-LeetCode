@@ -1,6 +1,6 @@
 ## #886 - Possible Bipartition
 
-
+![image](https://github.com/user-attachments/assets/8529a5b4-a416-449c-9ccc-b3396f277eef)
 
 [Link para a questão](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/)
 
