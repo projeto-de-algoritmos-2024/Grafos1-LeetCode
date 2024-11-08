@@ -5,7 +5,7 @@
 [Link para a questão](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)
 
 ### Gravação
-
+[Vídeo da explicação](https://www.youtube.com/watch?v=aCFagIpCzoE)
 
 
 #### Dificuldade: Difícil
