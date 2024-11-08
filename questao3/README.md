@@ -28,7 +28,7 @@ Output: false
 Explanation: We need at least 3 groups to divide them. We cannot put them in two groups.
 
 ### Submissões: 
-
+![image](https://github.com/user-attachments/assets/bfcda9b4-e051-4f39-acf4-7ff67b4139a6)
 ![Submissoes_Sum](https://github.com/user-attachments/assets/bc1e4b36-55ed-4765-b0ce-fff433191a6a)
 
 
