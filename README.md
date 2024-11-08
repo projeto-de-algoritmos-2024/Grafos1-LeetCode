@@ -16,25 +16,13 @@ Temas:
 Este repositório contém questões resolvidas, sobre o conteúdo de Grafos, do site [LeetCode](https://leetcode.com). Tais questões foram usadas para praticar e aplicar o que nos foi ministrado pelo Prof. Maurício durante o desenvolvimento do primeiro tópico da Disciplina de Projeto de Algoritmos. 
 
 ## Questões
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+| Exercício | Dificuldade | Enunciado | Aluno |
+| -- | -- | -- | -- |
+| [753 - Cracking the Safe](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao1/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/cracking-the-safe/description/) | Mateus Orlando Medeiros Ribeiro |
+| [886 - Possible Bipartition](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao3/README.md) | Medium | [Clique Aqui](https://leetcode.com/problems/possible-bipartition) | Mateus Orlando Medeiros Ribeiro |
+| [329 - Longest Increasing Path in a Matrix](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao2/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | Johnny da Ponte Lopes |
+| [Possible Bipartition](https://leetcode.com/problems/possible-bipartition) | Medium | [Clique Aqui](-) | Johnny da Ponte Lopes |
 
-### [#753 - Cracking the Safe](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao1/README.md)
-**Dificuldade:** Difícil    
-
-Submissões: 
-
-![image](https://github.com/user-attachments/assets/e11dd59d-62b0-4a4e-8bab-6907c88c02dc)
-
-![image](https://github.com/user-attachments/assets/e1b42a0c-3b81-4c0e-afb4-c88ca4bdbef4)
-
-### [#886 - Possible Bipartion](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao3/README.md)
-**Dificuldade:** Média    
-
-Submissões: 
-
-![image](https://github.com/user-attachments/assets/bfcda9b4-e051-4f39-acf4-7ff67b4139a6)
-
-![Submissoes_Pos](https://github.com/user-attachments/assets/bc1e4b36-55ed-4765-b0ce-fff433191a6a)
 
 ## Instalação 
 **Linguagem**: C
