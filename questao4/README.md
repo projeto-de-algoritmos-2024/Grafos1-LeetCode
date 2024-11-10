@@ -5,7 +5,7 @@
 [Link para a questão](https://leetcode.com/problems/clone-graph/description/)
 
 ### Gravação
-[Vídeo da explicação]([hhttps://youtu.be/SnqQ1pZYjXM?feature=shared](https://www.youtube.com/watch?v=SnqQ1pZYjXM))
+[Vídeo da explicação](https://www.youtube.com/watch?v=SnqQ1pZYjXM)
 
 
 #### Dificuldade: Média
