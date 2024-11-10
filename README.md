@@ -21,7 +21,7 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Grafos, do 
 | [753 - Cracking the Safe](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao1/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/cracking-the-safe/description/) | Mateus Orlando Medeiros Ribeiro |
 | [886 - Possible Bipartition](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao3/README.md) | Medium | [Clique Aqui](https://leetcode.com/problems/possible-bipartition) | Mateus Orlando Medeiros Ribeiro |
 | [329 - Longest Increasing Path in a Matrix](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCode/blob/master/questao2/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | Johnny da Ponte Lopes |
-| [Possible Bipartition](https://leetcode.com/problems/possible-bipartition) | Medium | [Clique Aqui](-) | Johnny da Ponte Lopes |
+| [133 - Clone Graph]() | Medium | [Clique Aqui](https://leetcode.com/problems/clone-graph) | Johnny da Ponte Lopes |
 
 
 ## Instalação 
